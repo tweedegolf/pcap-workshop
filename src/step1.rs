@@ -1,5 +1,3 @@
-fn main() {}
-
 enum Endianness {
     Le,
     Be,
